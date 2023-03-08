@@ -3,6 +3,8 @@
 ## Twitter Sentiment Analysis
 
 This is the repository to the Computational Intelligence Laboratory project of the group SentimentalGuys.
+Checkout our [project report](SentimentalGuys_Project_Report.pdf)!
+
 To reproduce our results we have written separate instruction README files in each branch.
 Just clone the repository and check out the desired branch.
 There are three branches:
